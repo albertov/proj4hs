@@ -1,0 +1,10 @@
+output/
+dist/
+**DS_Store
+result
+*.sw?
+.cabal-sandbox/
+cabal.sandbox.config
+*.o
+*.hi
+.directory
